@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac5c8d80.css",
+    "main.js": "/static/js/main.b0cafa4b.js",
+    "static/media/Group 78Group 78.png": "/static/media/Group 78Group 78.3c6a9242dad7afbee55a.png",
+    "static/media/Smart.png": "/static/media/Smart.73e30088ac6a8113d29e.png",
+    "static/media/Time.png": "/static/media/Time.b5b1105347728daffbf0.png",
+    "static/media/Job.png": "/static/media/Job.a700b5ec741d49327270.png",
+    "static/media/Money.png": "/static/media/Money.43b34bc4c6ddf3124681.png",
+    "index.html": "/index.html",
+    "main.ac5c8d80.css.map": "/static/css/main.ac5c8d80.css.map",
+    "main.b0cafa4b.js.map": "/static/js/main.b0cafa4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5c8d80.css",
+    "static/js/main.b0cafa4b.js"
+  ]
+}
